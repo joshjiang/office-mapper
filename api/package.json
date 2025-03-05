@@ -1,0 +1,14 @@
+{
+  "name": "office-mapper-api",
+  "version": "0.0.1",
+  "description": "Manages CRUD operations for mapping office data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josh jiang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
